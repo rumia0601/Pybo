@@ -179,7 +179,7 @@ LOGGING = {
             "filename": BASE_DIR / "logs/mysite.log",
             "maxBytes": 1024 * 1024 * 5,
             "backupCount": 5,
-            "formatter": "standard",0
+            "formatter": "standard",
         },
     },
 
